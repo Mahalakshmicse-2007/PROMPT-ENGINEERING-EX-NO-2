@@ -307,5 +307,4 @@ ensuring security and trust without intermediaries.
 
 <img width="1900" height="908" alt="Screenshot 2026-03-01 111030" src="https://github.com/user-attachments/assets/57162a86-74ac-425c-8b2c-e84c564a72b6" />
 
-<img width="1900" height="908" alt="Screenshot 2026-03-01 111030" src="https://github.com/user-attachments/assets/2956d228-2d52-4d89-9a02-4eecf4756ad9" />
 
